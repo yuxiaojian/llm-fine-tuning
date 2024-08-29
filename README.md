@@ -1,7 +1,13 @@
 # llm-fine-tuning
 LLM Fine Tuning collection
 
-## Llama3.1
+## Deep dive to llama3.1
+[Understand How Llama3.1 Works — A Deep Dive Into the Model Flow](https://medium.com/@yuxiaojian/understand-how-llama3-1-works-a-deep-dive-into-the-model-flow-b149aba04bed)
+<p align="center">
+  <img src="llama31/image/llama31-arch.png">
+</p>
+
+## Fine-tuning with Llama3.1
 1. Medium story [Fine-Tuning Ollama Models with Unsloth](https://medium.com/@yuxiaojian/fine-tuning-ollama-models-with-unsloth-a504ff9e8002)
     * [unsloth-ft-llama31-8b-instruct.py](llama31/unsloth/unsloth-ft-llama31-8b-instruct.py)
     * [unsloth-ft-llama31-8b-instruct-Modelfile](llama31/unsloth/unsloth-ft-llama31-8b-instruct-Modelfile)
